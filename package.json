@@ -17,7 +17,7 @@
     "react-dom": "15.4.2",
     "roboto-fontface": "0.10.0",
     "rxjs": "5.2.0",
-    "three": "0.87.1",
+    "three": "0.125.0",
     "tween.js": "16.6.0"
   },
   "devDependencies": {
